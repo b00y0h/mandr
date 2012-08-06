@@ -1,0 +1,164 @@
+/* Method - steelblue */
+
+
+.wp-pagenavi .current,.paged-navigation .current,#wp-calendar caption,
+body,body>.multibg>.multibg,#footer,#footer>.multibg>.multibg,
+.post_more_link,.call_to_action_button,.call_to_action_button span,
+.button_link,.fancy_button,#searchsubmit,#submit,.cluetip-default,
+.titled_box_title,.colored_box,.dropcap4,.pullquote4,.highlight,
+.tabs_button a.current,.fancy_header span,.minimal_table th{/*:Color Scheme*/
+background-color:#788794;}
+h1,#footer a:hover,.post_title,.post_title a,
+a:hover,.fancy_link,.dropcap2,.pullquote3,.highlight2,h5{/*:Color Scheme*/	
+color:#788794;}
+.wp-pagenavi .current,.paged-navigation .current,.blog_tabs a.current,
+#footer .widget li,#footer .widget a,#footer .widgettitle,
+.button_link,.fancy_button,#searchsubmit,#submit,.cluetip-default,.cluetip-default .cluetip-arrows,#sub_footer,
+.titled_box_title,.colored_box,.dropcap4,.pullquote4,.highlight,
+.tabs_button a.current,.fancy_header span,.minimal_table th{/*:Color Scheme*/
+border-color:#788794;}
+#content .recentcomments:before,
+#content .contact_widget_name,#content .contact_widget_phone,#content .contact_widget_email,#content .mysite_twitter_widget a,#content .recentcomments span,
+#outro .contact_widget_name,#outro .contact_widget_phone,#outro .contact_widget_email,#outro .mysite_twitter_widget a,#outro .recentcomments span,
+.toggle,.toggle_accordion,.active,.toggle_frame .toggle,.toggle_frame .toggle_accordion,.toggle_frame .active,
+.fancy_list .arrow_list,.fancy_list .bullet_list,.fancy_list .check_list,.fancy_list .circle_arrow,.fancy_list .triangle_arrow,.fancy_list .comment_list,.fancy_list .minus_list,.fancy_list .plus_list,.fancy_list .star_list,.sitemap_list li,
+blockquote,.download_link,.email_link,.twitter_link,.dropcap,.dropcap3,.tabs_vertical li.current span, .featured_tabs li.current_page_item span{/*:Icon Sprite*/ 
+background-image:url(../images/shortcodes/sprites/custom_sprite_788794.png);}
+
+
+/*:General Typography ~*~*/
+body{/*:Body Font */
+color:#666;font-size:12px;font-weight:normal;font-style:normal;font-family:Tahoma,Arial,sans-serif;}
+h1{/*:h1 Font*/ 
+/*color:inherit@;*/font-size:42px;font-weight:normal;font-style:normal;font-family:mpluslight;}
+h2{/*:h2 Font*/ 
+color:#444;font-size:28px;font-weight:normal;font-style:normal;font-family:mpluslight;}
+h3,.additional_posts_module h4,.blog_tabs a{/*:h3 Font*/ 
+color:#444;font-size:20px;font-weight:normal;font-style:normal;font-family:mpluslight;}
+h4{/*:h4 Font*/ 
+color:#444;font-size:18px;font-weight:normal;font-style:normal;font-family:mplus;}
+h5{/*:h5 Font*/ 
+/*color:inherit@;*/font-size:10px;font-weight:normal;font-style:normal;font-family:inherit;}
+h6{/*:h6 Font*/ 
+color:#aaa;font-size:9px;font-weight:normal;font-style:normal;font-family:inherit;}
+a{/*:Link*/
+color:#aaa;text-decoration:none;}
+a:hover{/*:Link Hover*/
+/*color:inherit@;*/text-decoration:underline;}
+/*:Typo End ~*~*/
+
+
+/*:Body ~*~*/
+body{/*:Body Background */
+/*background-image:none@;*//*background-color:inherit@;*/background-repeat:repeat;background-attachment:scroll;background-position:center top;}
+#body_inner{/*:Body Background */
+background-image:url(../images/body_inner.png);/*background-color:inherit@;*/background-repeat:repeat;background-attachment:scroll;background-position:center top;}
+/*:Body End ~*~*/
+
+
+/*:Header ~*~*/
+.logo a{/*:Logo Font*/ 
+color:#444;font-size:18px;font-weight:normal;font-style:normal;font-family:mpluslight;}
+#header{/*:Header Background */
+background-image:url(../images/header.png);background-color:#fff;background-repeat:repeat-x;background-attachment:scroll;background-position:center bottom;}
+#header{/*:Header Border */
+border-bottom-color:#d2d2d2;border-bottom-width:5px;border-bottom-style:solid;}
+#header_extras,#header_extras a{/*:Header Text Font */
+color:#eee;font-size:10px;font-weight:normal;font-style:normal;font-family:inherit;}
+/*:Header End ~*~*/
+
+
+/*:Menu ~*~*/
+.jqueryslidemenu a{/*:Menu Font */
+color:#aaa;font-size:12px;font-weight:normal;font-style:normal;font-family:inherit;}
+.jqueryslidemenu ul ul{/*:Menu Dropdown Background */
+background-image:none;background-color:#e3e3e3;background-repeat:repeat;background-attachment:scroll;background-position:center top;}
+/*:Menu End ~*~*/
+
+
+/*:Intro ~*~*/
+#intro .intro_title,#intro h1{/*:Intro Title Font */ 
+color:#fff;font-size:42px;font-weight:normal;font-style:normal;font-family:mpluslight;}
+#intro .teaser{/*:Intro Teaser Font */ 
+color:#ddd;font-size:16px;font-weight:normal;font-style:normal;font-family:mplus;}
+#header+#intro a{/*:Intro Links */
+color:#eee;text-decoration:none;}
+#header+#intro a:hover{/*:Intro Link Hover */
+color:#fff;text-decoration:none;}
+#slider_module+#intro h3{/*:Call to Action Font*/ 
+color:#ddd;font-size:20px;font-weight:normal;font-style:normal;font-family:mplus;}
+#breadcrumbs,#breadcrumbs a{/*:Breadcrumbs Font */
+color:#aaa;font-size:10px;font-weight:normal;font-style:normal;font-family:inherit;}
+#breadcrumbs{/*:Breadcrumbs Background */
+background-image:none;background-color:#e5e5e5;background-repeat:repeat;background-attachment:scroll;background-position:left bottom;}
+#breadcrumbs{/*:Breadcrumbs Top Border */
+border-top-color:#fff;border-top-width:1px;border-top-style:solid;}
+#intro{/*:Intro Background */
+background-image:url(../images/highlight.png);background-color:transparent;background-repeat:repeat-x;background-attachment:scroll;background-position:center top;}
+/*:Intro End ~*~*/
+
+
+/*:Main Content ~*~*/
+#content{/*:Main Content Background */
+background-image:none;background-color:#f5f5f5;background-repeat:repeat-x;background-attachment:scroll;background-position:left top;}
+#content{/*:Content Top Border */
+border-top-color:#fff;border-top-width:1px;border-top-style:solid;}
+#sidebar .widgettitle{/*:Sidebar Titles Font */
+color:#444;font-size:20px;font-weight:normal;font-style:normal;font-family:inherit;}
+/*:Main End ~*~*/
+
+
+/*:Outro ~*~*/
+#outro,#outro a{/*:Outro Font */
+color:#888;font-size:16px;font-weight:normal;font-style:normal;font-family:mplus;}
+#outro{/*:Outro Background */
+background-image:none;background-color:#e5e5e5;background-repeat:repeat-x;background-attachment:scroll;background-position:center top;}
+#outro{/*:Outro Border */
+border-top-color:#f9f9f9;border-top-width:1px;border-top-style:solid;}
+/*:Outro End ~*~*/
+
+
+/*:Footer ~*~*/
+#footer{/*:Footer Font */
+color:#ccc;font-size:11px;font-weight:normal;font-style:normal;font-family:inherit;}
+#footer .widgettitle{/*:Footer Titles Font */
+color:#eee;font-size:16px;font-weight:normal;font-style:normal;font-family:inherit;}
+#footer a{/*:Footer Links */
+color:#eee;text-decoration:none;}
+#footer a:hover{/*:Footer Link Hover */
+color:#fff;text-decoration:none;} 
+#footer{/*:Footer Background */
+background-image:url(../images/footer_shadow.png);background-color:transparent;background-repeat:repeat-x;background-attachment:scroll;background-position:center top;} 
+/*:Footer End ~*~*/
+
+
+/*:Sub Footer ~*~*/
+#sub_footer,#sub_footer a{/*:Sub Footer Font */
+color:#ccc;font-size:9px;font-weight:normal;font-style:normal;font-family:inherit;}
+#sub_footer{/*:Sub Footer Background */
+background-image:url(../images/sub_footer.png);background-color:transparent;background-repeat:repeat;background-attachment:scroll;background-position:center top;}
+/*:Sub Footer End ~*~*/
+
+
+/*:Misc ~*~*/
+.post_title,.post_title a{/*:Post Title Color */ 
+/*color:inherit@;*/}
+.post_meta em,.post_meta a,.post_meta_bottom a,.commentlist .date{/*:Post Meta Font */ 
+color:#aaa;font-size:10px;font-weight:normal;font-style:normal;font-family:tahoma;}
+.author_name,.commentlist cite,.commentlist cite a{/*:Comment Author Font*/
+color:#444;font-size:13px;font-weight:normal;font-style:normal;font-family:inherit;}
+.toggle a,.toggle_accordion a{/*:Toggle Title Font*/ 
+color:#888;font-size:15px;font-weight:normal;font-style:normal;font-family:mplus;}
+#content .teaser{/*:Content Teaser Font */ 
+color:#888;font-size:16px;font-weight:normal;font-style:normal;font-family:mplus;}
+/*:Misc End ~*~*/
+
+
+
+
+#intro .intro_title,#intro h1{/*:Cufon 1 */
+/*fontFamily: 'colaboratethin',
+color: '-linear-gradient(#fff,#f9f9f9, #bbb)',
+textShadow: '1px 2px rgba(0, 0, 0, 0.25), 0px -1px rgba(0, 0, 0, 0.1)',*/}
+#primay_menu{text-shadow:0 1px 1px rgba(0,0,0,.5);}
+#footer .widget li,#footer .widget a,#footer .widgettitle{border-color:rgba(255,255,255,.2);}
